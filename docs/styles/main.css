@@ -10077,6 +10077,7 @@ body {
 }
 
 .clipboard-button {
+    cursor: pointer;
     display: inline-block;
     position: relative;
 }
